@@ -4,7 +4,7 @@
 - [x] ml_02_지도학습_KNN
 - [x] ml_03_지도학습_LinearRegression
 - [x] ml_04_지도학습_Ridge_Lasso_Regression
-- [ ] ml_05_지도학습_Linear_Classifier
+- [x] ml_05_지도학습_Linear_Classifier
 
 ![repositories](images/repositories.png)  
 `git clone 학생저장소`  
