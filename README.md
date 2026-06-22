@@ -4,6 +4,7 @@
 - [x] ml_02_지도학습_KNN
 - [x] ml_03_지도학습_LinearRegression
 - [x] ml_04_지도학습_Ridge_Lasso_Regression
+- [x] ml_05_지도학습_Linear_Classifier
 
 ![repositories](images/repositories.png)  
 `git clone 학생저장소`  
@@ -24,4 +25,6 @@ https://app.notion.com/p/LinearRegression-3720711f396d80639dc0fe1c7dfc91e7?v=0ce
 #### ml_04_지도학습_Ridge_Lasso_Regression
 https://app.notion.com/p/Ridge_Lasso_Regression-4-3790711f396d80fc9043cd369922f4d1?v=0ce5aee757bd4aebad59bc9a5c6d2ad0&source=copy_link  
 [[open ml-04](ml_04_지도학습_Ridge_Lasso_Regression.ipynb)]
-
+#### ml_05_지도학습_Linear_Classifier
+https://app.notion.com/p/Linear-Classifier-3870711f396d80d1966bef6e7a3787a0?source=copy_link  
+[[open ml-05](ml_05_지도학습_Linear_Classifier.ipynb)]
